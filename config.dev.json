@@ -1,6 +1,8 @@
 {
   "obfuscatedKeys": {
-    "secureRootCodeV2": "MTAwMDgxMzMwMzcyMDk4"},
+    "secureRootCodeV2": "MTAwMDgxMzMwMzcyMDk4",
+    "secureRootCodeV3": "MTAwMDc3MzgwMDM4NTIx"
+  },
   "autoInjectUID": true,
   "facebookAccount": {
     "email": "chitronbhattacharjee35@gmail.com",
